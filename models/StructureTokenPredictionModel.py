@@ -1,5 +1,5 @@
 import random
-from  models import ABSmodule
+from .abs_model import ABSmodule
 from models.gpt2 import GPT2LMHeadModel, GPT2Config
 from transformers import T5EncoderModel, T5Config
 
