@@ -1,7 +1,7 @@
 
 # 模型权重
 weights
-checkpoints
+# checkpoints
 
 # python 缓存文件
 __pycache__/
